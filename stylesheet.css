@@ -29,7 +29,7 @@
   }
   .top-wrapper {
     padding: 180px 0 100px 0;
-    background-image: url(image/bg-home1.jpg);
+    background-image: url(bg-home1.jpg);
     background-size: cover;
     color: white;
     text-align: center;
@@ -39,11 +39,11 @@
     margin-bottom: 30px;
   }
     @keyframes bg-home{
-        0% {background-image: url(image/bg-home1.jpg);}
-        25% {background-image: url(image/bg-home2.jpg);}
-        50% {background-image: url(image/bg-home3.jpg);}
-        75% {background-image: url(image/bg-home4.jpg);}
-        100% {background-image: url(image/bg-home5.jpg);}
+        0% {background-image: url(bg-home1.jpg);}
+        25% {background-image: url(bg-home2.jpg);}
+        50% {background-image: url(bg-home3.jpg);}
+        75% {background-image: url(bg-home4.jpg);}
+        100% {background-image: url(bg-home5.jpg);}
     }
 
   .top-wrapper h1 {
